@@ -1,5 +1,6 @@
 # OLA Booking Analysis
 
+
 ## Project Overview
 
 This project analyzes 103,024 OLA ride bookings using SQL and Power BI to identify trends in revenue, cancellations, customer behavior, payment methods, and operational efficiency.
